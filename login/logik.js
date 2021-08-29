@@ -11,7 +11,7 @@ var username=document.getElementById("username").value;
 var password=document.getElementById("password").value;
 if(username=="admin"&& password=="user")
 {
-  window.location.href="gambo-settings.github.io/login-success";
+  window.location.href="/login-success";
 }
 else
 {
